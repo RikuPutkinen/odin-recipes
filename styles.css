@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(20, 20, 20);
+  color: rgb(240, 240, 240);
+  font-size: 20px;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
+
+a {
+  color: rgb(0, 150, 255);
+}
+
+a:visited {
+  color: rgb(0, 100, 255);
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
